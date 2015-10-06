@@ -25,3 +25,31 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+.idea
+.project
+*.sublime-*
+.DS_Store
+*.out
+*.pid
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+*.swo
+pids
+logs
+results
+npm-debug.log
+node_modules
+docs
+*rdb
+coverage/
+data/
+.strong-pm
+runctl
